@@ -1,9 +1,10 @@
 body {
     margin: 0;
     padding: 0;
+    background-image: url ("bloom.jpg");
 }
 .container {
-    background-image: url ("bloom.jpg");
+
     width: 100%;
     height: 100vh;
     display: flex;
